@@ -1,0 +1,19 @@
+{
+  "name": "badlife",
+  "version": "0.0.1",
+  "description": "PLACEHOLDER",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"NO TESTS YET\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BadLifeGame/app.git"
+  },
+  "author": "Many people",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/BadLifeGame/app/issues"
+  },
+  "homepage": "https://github.com/BadLifeGame/app#readme"
+}
